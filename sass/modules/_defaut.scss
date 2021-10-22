@@ -1,0 +1,11 @@
+body {
+    color: $main-color;
+    font-size: $main-size;
+    font-family: $main-font;
+    -webkit-animation: bgcolor 20s infinite 3s;
+    animation: bgcolor 10s infinite 3s;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+    margin: 0 auto;
+  }
+  

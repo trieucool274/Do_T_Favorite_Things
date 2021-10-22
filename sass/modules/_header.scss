@@ -1,0 +1,21 @@
+.container {
+    h1 {
+      font-size: 2px;
+    }
+}
+  
+  .name{
+      opacity:0;
+      animation:appear 1s ease-in forwards 1s
+    }
+  .ava{
+      opacity:0;
+      animation:appear 1s ease-in forwards 2s}
+  .introText{
+      opacity:0;
+      margin-top: 20px;
+      animation:appear 1s ease-in forwards 3s;
+    font:comic,sans-serif}
+  
+	
+  
