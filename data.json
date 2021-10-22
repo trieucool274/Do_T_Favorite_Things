@@ -1,0 +1,20 @@
+{
+    "Favorite1": {
+        "title":"live today love tomorrow unite forever",
+        "name":"Rave",
+        "description":"I love going to different music fesival and concert, It's the time I enjoying all the moment I have with my friends as well as different people.",
+        "favpic":"festival.jpg"
+    },
+    "Favorite2": {
+        "title":"Netflix & Chill",
+        "name":"Movie",
+        "description":"I usually watched many stuff on Netflix on my free time, usually anime and fun series such as Squid game, Witcher, ect.",
+        "favpic":"movie.jpg"
+    },
+    "Favorite3": {
+        "title":"Tacos Thursday",
+        "name":"Food",
+        "description":"I usually buy tacos and hamburger for different events in order to celebrate some small occasion in my life like passing G2 win small lotery or simply hungry :))",
+        "favpic":"food.jpg"
+    }
+  }
